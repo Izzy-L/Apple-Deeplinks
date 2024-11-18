@@ -1,0 +1,4 @@
+brew install go
+git clone https://github.com/blacktop/ipsw.git
+cd ipsw
+make build
